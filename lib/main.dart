@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: SplashScreen(), // Dashboard ya splash screen yahan set hoti hai
+      home: SplashScreen(),
     );
   }
 }
